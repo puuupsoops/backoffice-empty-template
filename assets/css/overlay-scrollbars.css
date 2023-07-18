@@ -1,0 +1,12 @@
+
+.os-theme-custom {
+   --os-size: 10px;
+}
+
+.os-theme-custom.os-scrollbar-horizontal {
+    --os-size: 10px;
+}
+
+.os-theme-custom.os-scrollbar-vertical {
+    --os-size: 20px;
+}

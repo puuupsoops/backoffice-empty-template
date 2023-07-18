@@ -1,0 +1,80 @@
+{
+  "pages": {
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "kanban": "Kanban",
+      "company": {
+        "company": "Company",
+        "structure": "Company structure",
+        "presentation": "Staff Presentations",
+        "newspaper": "Expert Daley",
+        "photo": "Photo gallery",
+        "orders": "Regulations. Orders",
+        "requisite": "Requisites and statutory documents"
+      },
+      "diary": "Diary" ,
+      "chat": "Chat",
+      "checklist": "Checklist",
+      "complaints_book": "Complaints Book"
+    },
+    "footer": {
+      "catalog": "Catalog",
+      "about": "About",
+      "for_clients": "Service",
+      "info": "Contact"
+    },
+    "chat": {
+      "chats": "Chats"
+    }
+  },
+  "chat": {
+    "createChat": "Start Chat",
+    "selectContact":"Select contact",
+    "newMessage": "New message"
+  },
+  "common": {
+    "save": "Save",
+    "settings": "Settings",
+    "cancel": "Abort",
+    "add": "Add",
+    "delete": "Delete",
+    "edit": "Edit",
+    "select": "Select",
+    "all": "All",
+    "search": "Search",
+    "favorites": "Favorites",
+    "create": "Create",
+    "created": "Created",
+    "title": "Title",
+    "user": "User",
+    "users": "Users",
+    "owner": "Owner",
+    "description": "Description",
+    "filter": "Filter",
+    "comment": "Comment",
+    "inputPlaceholder": "Type your message…"
+  },
+  "kanban": {
+    "board": "Board",
+    "boardTable": {
+      "name": "Name",
+      "owner": "Owner"
+    },
+    "boards": "Boards",
+    "addGroup": "Add group",
+    "addTask": "Add task",
+    "addObservers": "Add observers",
+    "addTaskDescription": "Task description...",
+    "createBoard": "Create board",
+    "insertTitle": "Insert title",
+    "groupTitle": "Group title",
+    "task": {
+      "observers": "Observers",
+      "executors": "Executors",
+      "addToTask": "Add to task",
+      "checkList": "Check List",
+      "noComments": "No comments",
+      "writeComment": "Write a comment"
+    }
+  }
+}

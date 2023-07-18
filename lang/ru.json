@@ -1,0 +1,80 @@
+{
+  "pages": {
+    "sidebar": {
+      "dashboard": "Рабочий стол",
+      "kanban": "Доска",
+      "company": {
+        "company": "Компания",
+        "structure": "Структура компании",
+        "presentation": "Презентации сотрудников",
+        "newspaper": "Эксперт Дэйли",
+        "photo": "Фотогалерея",
+        "orders": "Регламенты. Приказы",
+        "requisite": "Реквизиты и уставные документы"
+      },
+      "diary": "Ежедневник",
+      "chat": "Чат",
+      "checklist": "Опросник",
+      "complaints_book": "Книга жалоб"
+    },
+    "footer": {
+      "catalog": "Каталог",
+      "about": "О компании",
+      "for_clients": "Клиентам",
+      "info": "Инфо"
+    },
+    "chat": {
+      "chats": "Чаты"
+    }
+  },
+  "chat": {
+    "createChat": "Начать чат",
+    "selectContact":"Выберите контакт",
+    "newMessage": "Новое сообщение"
+  },
+  "common": {
+    "save": "Сохранить",
+    "settings": "Настройки",
+    "cancel": "Отмена",
+    "add": "Добавить",
+    "delete": "Удалить",
+    "edit": "Изменить",
+    "select": "Выбрать",
+    "all": "Все",
+    "search": "Поиск",
+    "favorites": "Избранное",
+    "create": "Создать",
+    "created": "Создано",
+    "title": "Заголовок",
+    "user": "Пользователь",
+    "users": "Пользователи",
+    "owner": "Владелец",
+    "description": "Описание",
+    "filter": "Фильтр",
+    "comment": "Комментарии",
+    "inputPlaceholder": "Введите текст..."
+  },
+  "kanban": {
+    "board": "Доска",
+    "boardTable": {
+      "name": "Название",
+      "owner": "Владелец"
+    },
+    "boards": "Доски",
+    "addGroup": "Добавить группу",
+    "addTask": "Добавить задачу",
+    "addObservers": "Добавьте наблюдателей",
+    "addTaskDescription": "Описание задачи...",
+    "createBoard": "Создать доску",
+    "insertTitle": "Введите заголовок",
+    "groupTitle": "Название группы",
+    "task": {
+      "observers": "Подписчики",
+      "executors": "Участники",
+      "addToTask": "Добавить на карточку",
+      "checkList": "Чек-лист",
+      "noComments": "Комментарии отсутствуют",
+      "writeComment": "Напишите комментарий"
+    }
+  }
+}
